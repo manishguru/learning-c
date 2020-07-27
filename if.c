@@ -3,7 +3,7 @@
 int main(){
 	int a;
 	for(a=1,a<=100,a++;){
-		printf("manish\n");
+		printf("manish guruwacharya\n");
 	}
 	return 0 ;
 }
